@@ -23,7 +23,19 @@
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
+      }, 
+      
+    "ANTI_CALL": {
+      "description": "on anti call anyone not disturb you",
+      "required": false,
+      "value": "."
     },
+    }, 
+      
+    "AUTO_DOWNLOADER": {
+      "description": "AUTO DOWNLOADER . TIK,FB,YT ,ETC ",
+      "required": false,
+      "value": "."
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
